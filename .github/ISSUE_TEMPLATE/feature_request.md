@@ -22,15 +22,15 @@ Add any other context or screenshots about the feature request here.
 
 1st bot
 
-*✨Sew Queen Whatsapp Bot ✨★➳*
+*🇱🇰MasterMind Whatsapp Bot 🇱🇰★➳*
 
-❯❯❯added new ttp list ==> .sewttp
+❯❯❯added new text to picture list ==> .xttp
 
-❯❯❯new unit convart system ==> .unit 1 kg g / .bitunit 1 Gb Mb
+❯❯❯new unit convert system ==> .unit 1 kg g / .bitunit 1 Gb Mb
 
-❯❯❯site to pdf ==> .sitepdf
+❯❯❯website to pdf ==> .sitepdf
 
-❯❯❯inbox block system ==> for activate  .setvar INBO_BLOCK:true  for disable  .setvar INBO_BLOCK:false
+❯❯❯inbox blocking system ==> for activate  .setvar INBO_BLOCK:true  for disable  .setvar INBO_BLOCK:false
 
 ❯❯❯anime image and gif download 100000+ ==> .anime pic / .anime gif
 
@@ -46,13 +46,13 @@ Add any other context or screenshots about the feature request here.
 
 ❯❯❯spotify download ==> .spotyfi 
 
-❯❯❯new text maker list ==> .sew3maker (adding 100+ new text to image soonly)
+❯❯❯new logo maker list ==> .m3maker (adding 100+ new text to image soonly)
 
-❯❯❯dual bot mod ==> .kingraviya && .queensew or .setvar BOT_MODE:kingraviya && .setvar BOT_MODE:queensew
+❯❯❯dual bot mod ==> .kingM && .MasterMind or .setvar BOT_MODE:kingraviya && .setvar BOT_MODE:queensew
 
 2nd Bot
 
-*✨King Raviya 18 + whatsapp bot ✨★➳*
+*✨King KD 18 + whatsapp bot ✨★➳*
 
 ❯❯❯phub search ==> .pornhub your text
 
@@ -70,9 +70,9 @@ Add any other context or screenshots about the feature request here.
 
 1 වන බොට්
 
-*Sew Queen Whatsapp Bot★ ➳*
+*MasterMind Whatsapp Bot★ ➳*
 
-❯❯❯නව ttp ලැයිස්තුව එකතු කරන ලදි ==> .sewttp
+❯❯❯නව text to picture ලැයිස්තුව එකතු කරන ලදි ==> .xttp
 
 ❯❯❯නව ඒකක පරිවර්තන ගැන්වීමේ පද්ධතිය ==> .unit 1 kg  g / .bitunit 1 Gb Mb
 
@@ -100,7 +100,7 @@ Add any other context or screenshots about the feature request here.
 
 2 වෙනි බොට් 
 
-*King Raviya 18 + වට්ස්ඇප් බොට් ★ ➳*
+*King KD 18 + වට්ස්ඇප් බොට් ★ ➳*
 
 ❯❯❯pornhub සෙවුම ==> .pornhub your text
 
