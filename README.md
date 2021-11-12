@@ -1,5 +1,5 @@
 <div align="center">
-<h1>🍁  ❤ Whatsapp Bot By Ravindu Manoj ❤  🍁</h1>
+<h1>😎  ❤ Whatsapp Bot By Mr KD ❤  😎</h1>
 </div>
 
 
@@ -37,8 +37,8 @@ $ cd sew
 $ node qr.js
 ```
 
-## 🇱🇰 RAVINDU MANOJ 🇱🇰  
-### SEW BOT FOR YOUR HELP😇
+## 🇱🇰 MR KD 🇱🇰  
+### MASTERMIND BOT FOR YOUR HELP😇
 
 <div align="center">
 <img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
@@ -52,11 +52,11 @@ $ node qr.js
   <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
   
   
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
+  <h1>🍁  Whatsapp Bot By Mr. KD  🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
 <p align="center">
-    SewQueen project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
+    MasterMind project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
     <br>
         <a href="https://t.me/RavinduManoj">Telegram Number</a> |
         <a href="https://t.me/AsenaSupport">Telegram Group</a> |
@@ -68,8 +68,8 @@ $ node qr.js
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
 
-## 🇱🇰 🔎 What is SewQueen?
-**SewQueen,** is a WhatsApp helper bot written by [Ravindu Manoj](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
+## 🇱🇰 🔎 What is MasterMind?
+**MasterMind,** is a WhatsApp helper bot written by [Mr. KD](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
 
 <h1>🇱🇰 Setup </h1>
 
