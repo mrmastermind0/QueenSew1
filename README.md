@@ -4,12 +4,13 @@
 
 
 
-🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත රූපය මත ටච් කරන්න
+🇱🇰 FORE QR SCAN 👇👇👇👇 QR කේතය ලබාගැනීමට පහත ලින්ක් එකක click කරන්න.. 
 
-[![Run on Repl.it](resources/gif/qr-scan.gif?size=40)](https://replit.com/@RavinduManoj/Queen-Sew-QR-Code)
-For Deploy 👇👇👇 බොට්ව සෑදීම සදහා පහත රූපය මත ටච් කරන්න
+https://replit.com/@RavinduManoj/Queen-Sew-QR-Code
 
-[![Deploy](resources/gif/IMG_20210724_012025.png?size=40)](https://bit.ly/2XrSqG1)
+For Deploy 👇👇👇 බොට්ව සෑදීම සඳහා පහත ලින්ක් එක click කරන්න
+
+https://bit.ly/2XrSqG1
 
 
 #
@@ -40,30 +41,17 @@ $ node qr.js
 ## 🇱🇰 MR KD 🇱🇰  
 ### MASTERMIND BOT FOR YOUR HELP😇
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
 
-- [RavinduManoj](https://github.com/RavinduManoj)
-- [@RavinduManoj](https://t.me/RavinduManoj)
+Links :-
+
+- [My Youtube Channel](https://youtube.com/c/SLwizCat)
 
 
-<div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/e18b9131ed1b5ec87d58359781c2a9c1044df810/temp_user_profile1621662133773.jpeg" width="250" height="250">
   
-  
-  <h1>🍁  Whatsapp Bot By Mr. KD  🍁</h1>
+  <h1>🍁  Whatsapp Bot modified By Mr. KD  🍁</h1>
   <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
 </div>
-<p align="center">
-    MasterMind project - Makes it easy and fun to use Whatsapp. Also first userbot for Whatsapp.
-    <br>
-        <a href="https://t.me/RavinduManoj">Telegram Number</a> |
-        <a href="https://t.me/AsenaSupport">Telegram Group</a> |
-        <a href="https://t.me/asenaremaster">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">New Plugin Channel</a> |
-    <br>
-</p>
+
 
 ----
 ![Docker Pulls](https://img.shields.io/docker/pulls/fusuf/whatsasena?style=flat-square) ![Docker Image Size (latest by date)](https://img.shields.io/docker/image-size/fusuf/whatsasena?style=flat-square)
@@ -71,35 +59,17 @@ $ node qr.js
 ## 🇱🇰 🔎 What is MasterMind?
 **MasterMind,** is a WhatsApp helper bot written by [Mr. KD](https://github.com/RavinduManoj). Does not log into your account It is written on WhatsApp Web API.
 
-<h1>🇱🇰 Setup </h1>
-
-
-
-##
-
-### ⚒️ Setup Wiki - Kurulum [Full Guide - By Ravindu Manoj]
-[![Setup - Raviya](https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/20210628_090852.png?size=75 )](https://github.com/RavinduManoj/RaviyaBot/wiki)
-
-##
-<details>
-    <summary>&#127942 <b>Warning</b></summary>
-    
 ### 🇱🇰 ⚠️ Warning! 
 ```
 Due to Userbot; Your WhatsApp account may be banned.
 This is an open source project, you are responsible for everything you do. 
-Absolutely, SewQueen executives do not accept responsibility.
-By establishing the SewQueen, you are deemed to have accepted these responsibilities.
+Absolutely, Mastermind executives do not accept responsibility.
+By establishing the Mastermind, you are deemed to have accepted these responsibilities.
 ```
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>p
-</details>
 
 ##🇱🇰 Developer 🍁
-
-[![RAVINDU MANOJ](https://bit.ly/3AyW139)](https://github.com/Sew01RaviduManoj01KingAndQueen/Sew01RaviduManoj01KingAndQueen#Readme.md)
+Mr. KD
 
 ## Thanks To
 - [@adiwajshing](https://github.com/adiwajshing) for coded [Baileys](https://github.com/adiwajshing/Baileys) 
@@ -110,20 +80,11 @@ This project is protected by `GNU General Public Licence v3.0` license.
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-<div align="center">
-  <img src="https://github.com/RavinduManoj/imagehosting/blob/7d17c40df5099525556eb014b20a13eca4ac1176/IMG_20210628_090553.jpg" width="250" height="250">
-  <h1>🍁  Whatsapp Bot By Ravindu Manoj  🍁</h1>
-  <h1>🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰🇱🇰</h1>
-</div>
-
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
   
 <details>
-    <summary>&#127942 <b>SewQueen Features</b></summary>
+    <summary>&#127942 <b>Mastermind Features</b></summary>
     
-## 🇱🇰 SewQueen Features
+## 🇱🇰 Mastermind Features
 
 | All Features 📢|Available ☑️|Version 🔎|
 | ------------- | ------------ | ---------- |
@@ -164,13 +125,10 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | Web Screenshot Plugin|✅|1.5|
 | Wallpaper Plugin|✅|1.4|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
 
 | Command 💻 |Description ℹ️|
 | ---------- | -------------------- |
-| .raviya| Shows all existing commands.|
+| .kd| Shows all existing commands.|
 | .alive| Checks if the bot is running.|
 | .ban| Kick the user from the group.|
 | .afk| It makes you AFK. Sends the afk message when you receive a private message or tag.|
@@ -235,9 +193,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .deepai| Provides a list of AI tools that use deep learning with Deep AI artificial intelligence.|
 | .wallpaper| Sends random high resolution wallpaper.|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
 
 ### XMedia Plugin Commands 🛠️
 | Command 💻 | Description ℹ️|
@@ -281,9 +236,6 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .scam online| It shows you online for 5 minutes.|
 | .scam stop| Stops fake actions.|
 
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
 
 
 ### Deep AI Commands 🛠️
@@ -300,8 +252,3 @@ This project is protected by `GNU General Public Licence v3.0` license.
 | .textai| Creates a virtual story from your sentence.|
 | .nudityai| Shows the NSFW value of the photo between 1 and 0.|
 | .ganstyle| Combines pictures with the image link in Config Vars with the help of artificial intelligence.|
-
-<div align="center">
-<img src="https://github.com/Sew01RaviduManoj01KingAndQueen/imagehosting/blob/00aa7f2685f0114a2111f57149d8f0a27b2481c9/VID-20210724-WA0003.gif" />
-  </div>
-</details>
